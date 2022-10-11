@@ -4,8 +4,16 @@ body{
   background-repeat: no-repeat;
 }
 h1{
-	color: white;
+  color: white;
+  text-decoration: underline;
+  text-align: center;
+}
+table{
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
 }
 tr{
   color: white;
+  height: 45px;
 }
